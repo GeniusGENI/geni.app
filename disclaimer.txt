@@ -1,0 +1,12 @@
+Disclaimer
+
+*Important Disclaimer*
+If you choose to partake in anything related to Genius, you must have no expectation of profit, nor expectation of profit derived from the work of others.
+
+This is not an investment of any kind, and sacrifice points have zero monetary value. Any points awarded to you as part of the sacrifice do not provide you with any legal, equitable or other any rights in relation to Genius or any individual or company involved in the Genius community.
+
+For the avoidance of doubt, you are not entitled to any voting, equity participation or any other rights that would ordinarily attach to a share of a company.
+
+Do all of this at your own risk.
+
+Notice the website sucks?  That is because this is an open source website, and you are welcome to make the website better :)  The code and website is managed through Github: https://github.com/GeniusGENI/geni.app
