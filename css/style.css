@@ -1,1785 +1,258 @@
-	.mediaViewInfo {
-		--web-view-name: GeniHomepage;
-		--web-view-id: GeniHomepage;
-		--web-scale-on-resize: true;
-		--web-enable-deep-linking: true;
-	}
-	:root {
-		--web-view-ids: GeniHomepage;
-	}
-	* {
-		margin: 0;
-		padding: 0;
-		box-sizing: border-box;
-		border: none;
-	}
-	#GeniHomepage {
-		position: absolute;
-		width: 1920px;
-		height: 4600px;
-		background-color: rgba(9,9,67,1);
-		overflow: hidden;
-		--web-view-name: GeniHomepage;
-		--web-view-id: GeniHomepage;
-		--web-scale-on-resize: true;
-		--web-enable-deep-linking: true;
-	}
-	#henry-chen-ZwRCXGkv30w-unsplas {
-		opacity: 0.237;
-		mix-blend-mode: screen;
-		position: absolute;
-		width: 1920px;
-		height: 1278px;
-		left: 0px;
-		top: 2884px;
-		overflow: visible;
-	}
-	#Rectangle_60 {
-		fill: rgba(243,108,77,1);
-	}
-	.Rectangle_60 {
-		position: absolute;
-		overflow: visible;
-		width: 714px;
-		height: 125px;
-		left: 147px;
-		top: 3551px;
-	}
-	#Rectangle_15 {
-		opacity: 0.267;
-		fill: rgba(28,45,82,1);
-	}
-	.Rectangle_15 {
-		mix-blend-mode: multiply;
-		position: absolute;
-		overflow: visible;
-		width: 1920px;
-		height: 1470px;
-		left: 0px;
-		top: 1091px;
-	}
-	#graficos {
-		position: absolute;
-		width: 1434px;
-		height: 1495px;
-		left: 670px;
-		top: -46px;
-		overflow: visible;
-	}
-	#Genius_is_the_first_high-yield {
-		left: 145px;
-		top: 282px;
-		position: absolute;
-		overflow: visible;
-		width: 1326px;
-		white-space: nowrap;
-		line-height: 85px;
-		margin-top: -7.5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 70px;
-		color: rgba(255,255,255,1);
-	}
-	#Get_Genius {
-		opacity: 0.801;
-		left: 783px;
-		top: 1205px;
-		position: absolute;
-		overflow: visible;
-		width: 346px;
-		white-space: nowrap;
-		line-height: 140px;
-		margin-top: -35px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 70px;
-		color: rgba(255,255,255,1);
-	}
-	#Using_the_Widget_on_the_right {
-		opacity: 0.801;
-		left: 694px;
-		top: 1297px;
-		position: absolute;
-		overflow: visible;
-		width: 534px;
-		white-space: nowrap;
-		line-height: 140px;
-		margin-top: -50px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 40px;
-		color: rgba(255,255,255,1);
-	}
-	#This_is_the_Genius_Smart_Finan {
-		left: 149px;
-		top: 586px;
-		position: absolute;
-		overflow: visible;
-		width: 610px;
-		white-space: nowrap;
-		line-height: 50px;
-		margin-top: -5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 40px;
-		color: rgba(255,255,255,1);
-	}
-	#Component_2__1 {
-		position: absolute;
-		width: 365px;
-		height: 82px;
-		left: 127px;
-		top: 746px;
-		overflow: visible;
-	}
-	#Rectangle_13 {
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 3px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Rectangle_13 {
-		position: absolute;
-		overflow: visible;
-		width: 365px;
-		height: 82px;
-		left: 0px;
-		top: 0px;
-	}
-	#Watch_Video {
-		left: 35px;
-		top: 23px;
-		position: absolute;
-		overflow: visible;
-		width: 235px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 40px;
-		color: rgba(255,255,255,1);
-	}
-	#Group_26 {
-		position: absolute;
-		width: 57px;
-		height: 57px;
-		left: 285px;
-		top: 12px;
-		overflow: visible;
-	}
-	#Group_25 {
-		position: absolute;
-		width: 57px;
-		height: 57px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Rectangle_44 {
-		fill: rgba(7,7,52,1);
-	}
-	.Rectangle_44 {
-		position: absolute;
-		overflow: visible;
-		width: 1920px;
-		height: 438px;
-		left: 0px;
-		top: 4162px;
-	}
-	#Group_71 {
-		position: absolute;
-		width: 1920px;
-		height: 369px;
-		left: 0px;
-		top: 2561px;
-		overflow: visible;
-	}
-	#Rectangle_49_w {
-		fill: url(#Rectangle_49_w);
-	}
-	.Rectangle_49_w {
-		filter: drop-shadow(16px 10px 5px rgba(0, 0, 0, 0.161));
-		position: absolute;
-		overflow: visible;
-		width: 1943.5px;
-		height: 386.5px;
-		left: 0px;
-		top: 0px;
-	}
-	#arte1 {
-		mix-blend-mode: screen;
-		position: absolute;
-		width: 1920px;
-		height: 369px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Got_Genius {
-		left: 197px;
-		top: 85px;
-		position: absolute;
-		overflow: visible;
-		width: 432px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 80px;
-		color: rgba(255,255,255,1);
-	}
-	#The_Genius_you_got_is_actually {
-		left: 197px;
-		top: 178px;
-		position: absolute;
-		overflow: visible;
-		width: 981px;
-		white-space: nowrap;
-		line-height: 44px;
-		margin-top: -4.5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 35px;
-		color: rgba(255,255,255,1);
-		letter-spacing: -0.2px;
-	}
-	#Component_7__1 {
-		position: absolute;
-		width: 365px;
-		height: 82px;
-		left: 1307px;
-		top: 144px;
-		overflow: visible;
-	}
-	#Rectangle_50 {
-		fill: rgba(255,255,255,1);
-	}
-	.Rectangle_50 {
-		position: absolute;
-		overflow: visible;
-		width: 365px;
-		height: 82px;
-		left: 0px;
-		top: 0px;
-	}
-	#Genius_Sacrifice {
-		left: 41px;
-		top: 23px;
-		position: absolute;
-		overflow: visible;
-		width: 285px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 40px;
-		color: rgba(243,103,78,1);
-	}
-	#Group_44 {
-		opacity: 0.3;
-		position: absolute;
-		width: 140.696px;
-		height: 73.407px;
-		left: 904.152px;
-		top: 4352.296px;
-		overflow: visible;
-	}
-	#Group_43 {
-		position: absolute;
-		width: 140.696px;
-		height: 73.407px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Group_46 {
-		position: absolute;
-		width: 64.969px;
-		height: 54.677px;
-		left: 254px;
-		top: 4301.62px;
-		overflow: visible;
-	}
-	#Group_45 {
-		position: absolute;
-		width: 64.969px;
-		height: 54.677px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Group_48 {
-		position: absolute;
-		width: 62.721px;
-		height: 54.677px;
-		left: 165.279px;
-		top: 4301.62px;
-		overflow: visible;
-	}
-	#Group_47 {
-		position: absolute;
-		width: 62.721px;
-		height: 54.677px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Copyright_c_2022_All_rights_re {
-		opacity: 0.798;
-		left: 147px;
-		top: 4393px;
-		position: absolute;
-		overflow: visible;
-		width: 443px;
-		white-space: nowrap;
-		line-height: 44px;
-		margin-top: -7px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: lighter;
-		font-size: 30px;
-		color: rgba(255,255,255,1);
-		letter-spacing: -0.6px;
-	}
-	#Downloads_Trading_Developers {
-		opacity: 0.798;
-		left: 1570px;
-		top: 4329px;
-		position: absolute;
-		overflow: visible;
-		width: 139px;
-		white-space: nowrap;
-		line-height: 44px;
-		margin-top: -7px;
-		text-align: right;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: lighter;
-		font-size: 30px;
-		color: rgba(255,255,255,1);
-		letter-spacing: -0.6px;
-	}
-	#Screen_Shot_2022-04-25_at_1336 {
-		position: absolute;
-		width: 650px;
-		height: 996px;
-		left: 1120px;
-		top: 1426px;
-		overflow: visible;
-	}
-	#CUADRO1-copy {
-		position: absolute;
-		width: 905px;
-		height: 247px;
-		left: 144px;
-		top: 1363px;
-		overflow: visible;
-	}
-	#CUADRO1-copy_bd {
-		position: absolute;
-		width: 905px;
-		height: 247px;
-		left: 144px;
-		top: 1574px;
-		overflow: visible;
-	}
-	#CUADRO1-copy_be {
-		position: absolute;
-		width: 926px;
-		height: 304px;
-		left: 144px;
-		top: 1986px;
-		overflow: visible;
-	}
-	#CUADRO1-copy_bf {
-		position: absolute;
-		width: 905px;
-		height: 257px;
-		left: 144px;
-		top: 1785px;
-		overflow: visible;
-	}
-	#CUADRO1-copy_bg {
-		position: absolute;
-		width: 905px;
-		height: 258px;
-		left: 144px;
-		top: 2212px;
-		overflow: visible;
-	}
-	#n_Click_the_Import_button {
-		opacity: 0.701;
-		left: 380px;
-		top: 1490px;
-		position: absolute;
-		overflow: visible;
-		width: 551px;
-		height: 60px;
-		line-height: 40px;
-		margin-top: -2.5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 35px;
-		color: rgba(255,255,255,1);
-	}
-	#Click_the_Connect_Wallet_butto {
-		opacity: 0.701;
-		left: 380px;
-		top: 1700px;
-		position: absolute;
-		overflow: visible;
-		width: 609px;
-		height: 61px;
-		line-height: 40px;
-		margin-top: -2.5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 35px;
-		color: rgba(255,255,255,1);
-	}
-	#Click_Select_a_token_to_choose {
-		opacity: 0.701;
-		left: 380px;
-		top: 1901px;
-		position: absolute;
-		overflow: visible;
-		width: 578px;
-		height: 96px;
-		line-height: 36px;
-		margin-top: -0.5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 35px;
-		color: rgba(255,255,255,1);
-	}
-	#Click_the_Swap_button {
-		opacity: 0.701;
-		left: 380px;
-		top: 2343px;
-		position: absolute;
-		overflow: visible;
-		width: 578px;
-		height: 96px;
-		line-height: 36px;
-		margin-top: -0.5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 35px;
-		color: rgba(255,255,255,1);
-	}
-	#Make_sure_you_have_a_balance_w {
-		opacity: 0.701;
-		left: 380px;
-		top: 2105px;
-		position: absolute;
-		overflow: visible;
-		width: 626px;
-		height: 150px;
-		line-height: 34px;
-		margin-top: -1px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 32px;
-		color: rgba(255,255,255,1);
-	}
-	#STEP_1 {
-		opacity: 0.798;
-		left: 380px;
-		top: 1439px;
-		position: absolute;
-		overflow: visible;
-		width: 127px;
-		white-space: nowrap;
-		line-height: 46px;
-		margin-top: -3.5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 39px;
-		color: rgba(255,255,255,1);
-	}
-	#STEP_2 {
-		opacity: 0.798;
-		left: 380px;
-		top: 1649px;
-		position: absolute;
-		overflow: visible;
-		width: 133px;
-		white-space: nowrap;
-		line-height: 48px;
-		margin-top: -4px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 40px;
-		color: rgba(255,255,255,1);
-	}
-	#STEP_3 {
-		opacity: 0.798;
-		left: 380px;
-		top: 1851px;
-		position: absolute;
-		overflow: visible;
-		width: 129px;
-		white-space: nowrap;
-		line-height: 46px;
-		margin-top: -3.5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 39px;
-		color: rgba(255,255,255,1);
-	}
-	#STEP_5 {
-		opacity: 0.798;
-		left: 380px;
-		top: 2293px;
-		position: absolute;
-		overflow: visible;
-		width: 129px;
-		white-space: nowrap;
-		line-height: 46px;
-		margin-top: -3.5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 39px;
-		color: rgba(255,255,255,1);
-	}
-	#STEP_4 {
-		opacity: 0.798;
-		left: 380px;
-		top: 2062px;
-		position: absolute;
-		overflow: visible;
-		width: 131px;
-		white-space: nowrap;
-		line-height: 46px;
-		margin-top: -3.5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 39px;
-		color: rgba(255,255,255,1);
-	}
-	#Line_2 {
-		opacity: 0.566;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Line_2 {
-		overflow: visible;
-		position: absolute;
-		width: 2px;
-		height: 848.242px;
-		left: 146.473px;
-		top: 1473.661px;
-		transform: matrix(1,0,0,1,0,0);
-	}
-	#Group_60 {
-		position: absolute;
-		width: 40px;
-		height: 40px;
-		left: 127px;
-		top: 1433px;
-		overflow: visible;
-	}
-	#Ellipse_2 {
-		opacity: 0.291;
-		fill: rgba(255,255,255,1);
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_2 {
-		position: absolute;
-		overflow: visible;
-		width: 40px;
-		height: 40px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_3 {
-		opacity: 0.291;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_3 {
-		position: absolute;
-		overflow: visible;
-		width: 40px;
-		height: 40px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_1 {
-		fill: rgba(7,7,55,1);
-	}
-	.Ellipse_1 {
-		position: absolute;
-		overflow: visible;
-		width: 24px;
-		height: 25px;
-		left: 8px;
-		top: 8px;
-	}
-	#Group_61 {
-		position: absolute;
-		width: 40px;
-		height: 40px;
-		left: 127px;
-		top: 1677px;
-		overflow: visible;
-	}
-	#Ellipse_2_bx {
-		opacity: 0.291;
-		fill: rgba(255,255,255,1);
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_2_bx {
-		position: absolute;
-		overflow: visible;
-		width: 40px;
-		height: 40px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_3_by {
-		opacity: 0.291;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_3_by {
-		position: absolute;
-		overflow: visible;
-		width: 40px;
-		height: 40px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_1_bz {
-		fill: rgba(7,7,55,1);
-	}
-	.Ellipse_1_bz {
-		position: absolute;
-		overflow: visible;
-		width: 24px;
-		height: 25px;
-		left: 8px;
-		top: 8px;
-	}
-	#Group_65 {
-		position: absolute;
-		width: 40px;
-		height: 40px;
-		left: 127px;
-		top: 1887px;
-		overflow: visible;
-	}
-	#Ellipse_2_b {
-		opacity: 0.291;
-		fill: rgba(255,255,255,1);
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_2_b {
-		position: absolute;
-		overflow: visible;
-		width: 40px;
-		height: 40px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_3_b {
-		opacity: 0.291;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_3_b {
-		position: absolute;
-		overflow: visible;
-		width: 40px;
-		height: 40px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_1_b {
-		fill: rgba(7,7,55,1);
-	}
-	.Ellipse_1_b {
-		position: absolute;
-		overflow: visible;
-		width: 24px;
-		height: 25px;
-		left: 8px;
-		top: 8px;
-	}
-	#Group_67 {
-		position: absolute;
-		width: 40px;
-		height: 40px;
-		left: 127px;
-		top: 2109px;
-		overflow: visible;
-	}
-	#Ellipse_2_ca {
-		opacity: 0.291;
-		fill: rgba(255,255,255,1);
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_2_ca {
-		position: absolute;
-		overflow: visible;
-		width: 40px;
-		height: 40px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_3_ca {
-		opacity: 0.291;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_3_ca {
-		position: absolute;
-		overflow: visible;
-		width: 40px;
-		height: 40px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_1_ca {
-		fill: rgba(7,7,55,1);
-	}
-	.Ellipse_1_ca {
-		position: absolute;
-		overflow: visible;
-		width: 24px;
-		height: 25px;
-		left: 8px;
-		top: 7px;
-	}
-	#Group_68 {
-		position: absolute;
-		width: 40px;
-		height: 40px;
-		left: 127px;
-		top: 2321px;
-		overflow: visible;
-	}
-	#Ellipse_2_cb {
-		opacity: 0.291;
-		fill: rgba(255,255,255,1);
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_2_cb {
-		position: absolute;
-		overflow: visible;
-		width: 40px;
-		height: 40px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_3_cb {
-		opacity: 0.291;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_3_cb {
-		position: absolute;
-		overflow: visible;
-		width: 40px;
-		height: 40px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_1_cb {
-		fill: rgba(7,7,55,1);
-	}
-	.Ellipse_1_cb {
-		position: absolute;
-		overflow: visible;
-		width: 24px;
-		height: 25px;
-		left: 8px;
-		top: 8px;
-	}
-	#Group_62 {
-		opacity: 0.56;
-		position: absolute;
-		width: 137px;
-		height: 137px;
-		left: 194px;
-		top: 1411px;
-		overflow: visible;
-	}
-	#Ellipse_2_cd {
-		opacity: 0.291;
-		fill: rgba(255,255,255,1);
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_2_cd {
-		position: absolute;
-		overflow: visible;
-		width: 137px;
-		height: 137px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_3_ce {
-		opacity: 0.291;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_3_ce {
-		position: absolute;
-		overflow: visible;
-		width: 137px;
-		height: 137px;
-		left: 0px;
-		top: 0px;
-	}
-	#Group_63 {
-		opacity: 0.56;
-		position: absolute;
-		width: 137px;
-		height: 137px;
-		left: 194px;
-		top: 1622px;
-		overflow: visible;
-	}
-	#Ellipse_2_cg {
-		opacity: 0.291;
-		fill: rgba(255,255,255,1);
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_2_cg {
-		position: absolute;
-		overflow: visible;
-		width: 137px;
-		height: 137px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_3_ch {
-		opacity: 0.291;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_3_ch {
-		position: absolute;
-		overflow: visible;
-		width: 137px;
-		height: 137px;
-		left: 0px;
-		top: 0px;
-	}
-	#Group_64 {
-		opacity: 0.56;
-		position: absolute;
-		width: 137px;
-		height: 137px;
-		left: 194px;
-		top: 1839px;
-		overflow: visible;
-	}
-	#Ellipse_2_cj {
-		opacity: 0.291;
-		fill: rgba(255,255,255,1);
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_2_cj {
-		position: absolute;
-		overflow: visible;
-		width: 137px;
-		height: 137px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_3_ck {
-		opacity: 0.291;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_3_ck {
-		position: absolute;
-		overflow: visible;
-		width: 137px;
-		height: 137px;
-		left: 0px;
-		top: 0px;
-	}
-	#Group_70 {
-		opacity: 0.56;
-		position: absolute;
-		width: 137px;
-		height: 137px;
-		left: 194px;
-		top: 2266px;
-		overflow: visible;
-	}
-	#Ellipse_2_cm {
-		opacity: 0.291;
-		fill: rgba(255,255,255,1);
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_2_cm {
-		position: absolute;
-		overflow: visible;
-		width: 137px;
-		height: 137px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_3_cn {
-		opacity: 0.291;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_3_cn {
-		position: absolute;
-		overflow: visible;
-		width: 137px;
-		height: 137px;
-		left: 0px;
-		top: 0px;
-	}
-	#Group_69 {
-		opacity: 0.56;
-		position: absolute;
-		width: 137px;
-		height: 137px;
-		left: 194px;
-		top: 2060px;
-		overflow: visible;
-	}
-	#Ellipse_2_cp {
-		opacity: 0.291;
-		fill: rgba(255,255,255,1);
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_2_cp {
-		position: absolute;
-		overflow: visible;
-		width: 137px;
-		height: 137px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_3_cq {
-		opacity: 0.291;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_3_cq {
-		position: absolute;
-		overflow: visible;
-		width: 137px;
-		height: 137px;
-		left: 0px;
-		top: 0px;
-	}
-	#The_Sacrifice_hasnt_started_wh {
-		left: 175px;
-		top: 3323px;
-		position: absolute;
-		overflow: visible;
-		width: 660px;
-		white-space: nowrap;
-		line-height: 120px;
-		margin-top: -10px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 100px;
-		color: rgba(255,255,255,1);
-	}
-	#Follow_Genius_on_Twitter_https {
-		left: 1138px;
-		top: 3832px;
-		position: absolute;
-		overflow: visible;
-		width: 610px;
-		height: 120px;
-		line-height: 40px;
-		margin-top: -2.5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 35px;
-		color: rgba(255,255,255,1);
-	}
-	#Tell_your_friends_about_Genius {
-		left: 1144px;
-		top: 3190px;
-		position: absolute;
-		overflow: visible;
-		width: 696px;
-		height: 67px;
-		line-height: 40px;
-		margin-top: -2.5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 35px;
-		color: rgba(255,255,255,1);
-	}
-	#Read_the_White_Paper {
-		left: 1141px;
-		top: 3323px;
-		position: absolute;
-		overflow: visible;
-		width: 696px;
-		height: 67px;
-		line-height: 40px;
-		margin-top: -2.5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 35px;
-		color: rgba(255,255,255,1);
-	}
-	#Bookmark_the_Sacrifice_website {
-		left: 1139px;
-		top: 3433px;
-		position: absolute;
-		overflow: visible;
-		width: 655px;
-		height: 111px;
-		line-height: 40px;
-		margin-top: -2.5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 35px;
-		color: rgba(255,255,255,1);
-	}
-	#Join_the_Genius_community_on_T {
-		left: 1138px;
-		top: 3572px;
-		position: absolute;
-		overflow: visible;
-		width: 624px;
-		height: 111px;
-		line-height: 40px;
-		margin-top: -2.5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 35px;
-		color: rgba(255,255,255,1);
-	}
-	#Follow_Genius_News_on_the_Tele {
-		left: 1138px;
-		top: 3705px;
-		position: absolute;
-		overflow: visible;
-		width: 655px;
-		height: 111px;
-		line-height: 40px;
-		margin-top: -2.5px;
-		text-align: left;
-		font-family: Aleo;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 35px;
-		color: rgba(255,255,255,1);
-	}
-	#Group_72 {
-		position: absolute;
-		width: 106px;
-		height: 106px;
-		left: 1000px;
-		top: 3151px;
-		overflow: visible;
-	}
-	#Ellipse_2_cz {
-		opacity: 0.291;
-		fill: rgba(255,255,255,1);
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_2_cz {
-		position: absolute;
-		overflow: visible;
-		width: 106px;
-		height: 106px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_3_c {
-		opacity: 0.291;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_3_c {
-		position: absolute;
-		overflow: visible;
-		width: 106px;
-		height: 106px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_1_c {
-		fill: rgba(255,255,255,1);
-	}
-	.Ellipse_1_c {
-		position: absolute;
-		overflow: visible;
-		width: 80px;
-		height: 82px;
-		left: 13px;
-		top: 13px;
-	}
-	#Group_73 {
-		position: absolute;
-		width: 106px;
-		height: 106px;
-		left: 1000px;
-		top: 3284px;
-		overflow: visible;
-	}
-	#Ellipse_2_c {
-		opacity: 0.291;
-		fill: rgba(255,255,255,1);
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_2_c {
-		position: absolute;
-		overflow: visible;
-		width: 106px;
-		height: 106px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_3_da {
-		opacity: 0.291;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_3_da {
-		position: absolute;
-		overflow: visible;
-		width: 106px;
-		height: 106px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_1_da {
-		fill: rgba(255,255,255,1);
-	}
-	.Ellipse_1_da {
-		position: absolute;
-		overflow: visible;
-		width: 80px;
-		height: 82px;
-		left: 13px;
-		top: 13px;
-	}
-	#Group_74 {
-		position: absolute;
-		width: 106px;
-		height: 106px;
-		left: 1000px;
-		top: 3417px;
-		overflow: visible;
-	}
-	#Ellipse_2_da {
-		opacity: 0.291;
-		fill: rgba(255,255,255,1);
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_2_da {
-		position: absolute;
-		overflow: visible;
-		width: 106px;
-		height: 106px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_3_db {
-		opacity: 0.291;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_3_db {
-		position: absolute;
-		overflow: visible;
-		width: 106px;
-		height: 106px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_1_db {
-		fill: rgba(255,255,255,1);
-	}
-	.Ellipse_1_db {
-		position: absolute;
-		overflow: visible;
-		width: 80px;
-		height: 82px;
-		left: 13px;
-		top: 13px;
-	}
-	#Group_75 {
-		position: absolute;
-		width: 106px;
-		height: 106px;
-		left: 1000px;
-		top: 3550px;
-		overflow: visible;
-	}
-	#Ellipse_2_db {
-		opacity: 0.291;
-		fill: rgba(255,255,255,1);
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_2_db {
-		position: absolute;
-		overflow: visible;
-		width: 106px;
-		height: 106px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_3_dc {
-		opacity: 0.291;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_3_dc {
-		position: absolute;
-		overflow: visible;
-		width: 106px;
-		height: 106px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_1_dd {
-		fill: rgba(255,255,255,1);
-	}
-	.Ellipse_1_dd {
-		position: absolute;
-		overflow: visible;
-		width: 80px;
-		height: 82px;
-		left: 13px;
-		top: 13px;
-	}
-	#Group_76 {
-		position: absolute;
-		width: 106px;
-		height: 106px;
-		left: 1000px;
-		top: 3683px;
-		overflow: visible;
-	}
-	#Ellipse_2_df {
-		opacity: 0.291;
-		fill: rgba(255,255,255,1);
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_2_df {
-		position: absolute;
-		overflow: visible;
-		width: 106px;
-		height: 106px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_3_dg {
-		opacity: 0.291;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_3_dg {
-		position: absolute;
-		overflow: visible;
-		width: 106px;
-		height: 106px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_1_dh {
-		fill: rgba(255,255,255,1);
-	}
-	.Ellipse_1_dh {
-		position: absolute;
-		overflow: visible;
-		width: 80px;
-		height: 82px;
-		left: 13px;
-		top: 13px;
-	}
-	#Group_77 {
-		position: absolute;
-		width: 106px;
-		height: 106px;
-		left: 1000px;
-		top: 3816px;
-		overflow: visible;
-	}
-	#Ellipse_2_dj {
-		opacity: 0.291;
-		fill: rgba(255,255,255,1);
-		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_2_dj {
-		position: absolute;
-		overflow: visible;
-		width: 106px;
-		height: 106px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_3_dk {
-		opacity: 0.291;
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Ellipse_3_dk {
-		position: absolute;
-		overflow: visible;
-		width: 106px;
-		height: 106px;
-		left: 0px;
-		top: 0px;
-	}
-	#Ellipse_1_dl {
-		fill: rgba(255,255,255,1);
-	}
-	.Ellipse_1_dl {
-		position: absolute;
-		overflow: visible;
-		width: 80px;
-		height: 82px;
-		left: 13px;
-		top: 13px;
-	}
-	#Group_86 {
-		position: absolute;
-		width: 34.861px;
-		height: 46.237px;
-		left: 1036.449px;
-		top: 3446.881px;
-		overflow: visible;
-	}
-	#Group_85 {
-		position: absolute;
-		width: 34.861px;
-		height: 46.237px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Group_88 {
-		position: absolute;
-		width: 59.264px;
-		height: 35.298px;
-		left: 1024.248px;
-		top: 3319.351px;
-		overflow: visible;
-	}
-	#Group_87 {
-		position: absolute;
-		width: 59.264px;
-		height: 35.298px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Group_90 {
-		position: absolute;
-		width: 44.103px;
-		height: 48.118px;
-		left: 1027.207px;
-		top: 3179.941px;
-		overflow: visible;
-	}
-	#Group_89 {
-		position: absolute;
-		width: 44.104px;
-		height: 48.118px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Group_92 {
-		position: absolute;
-		width: 51.823px;
-		height: 43.614px;
-		left: 1023.248px;
-		top: 3583.886px;
-		overflow: visible;
-	}
-	#Group_91 {
-		position: absolute;
-		width: 51.823px;
-		height: 43.614px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Group_93 {
-		position: absolute;
-		width: 51.823px;
-		height: 43.614px;
-		left: 1023.248px;
-		top: 3716.886px;
-		overflow: visible;
-	}
-	#Group_91_dv {
-		position: absolute;
-		width: 51.823px;
-		height: 43.614px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Group_94 {
-		position: absolute;
-		width: 46.846px;
-		height: 40.838px;
-		left: 1031.224px;
-		top: 3850.162px;
-		overflow: visible;
-	}
-	#Group_47_dx {
-		position: absolute;
-		width: 46.846px;
-		height: 40.838px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Group_99 {
-		position: absolute;
-		width: 1437.755px;
-		height: 87.592px;
-		left: 229.291px;
-		top: 90.415px;
-		overflow: visible;
-	}
-	#Group_98 {
-		position: absolute;
-		width: 1275.709px;
-		height: 87.592px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Group_15 {
-		position: absolute;
-		width: 173.439px;
-		height: 87.592px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Group_14 {
-		position: absolute;
-		width: 173.439px;
-		height: 87.592px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Group_57 {
-		position: absolute;
-		width: 1057px;
-		height: 36px;
-		left: 218.709px;
-		top: 43.585px;
-		overflow: visible;
-	}
-	#Get_Genius_d {
-		left: 324px;
-		top: 0px;
-		position: absolute;
-		overflow: visible;
-		width: 132px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: Avenir;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 26px;
-		color: rgba(255,255,255,1);
-	}
-	#White_Paper {
-		left: 0px;
-		top: 0px;
-		position: absolute;
-		overflow: visible;
-		width: 139px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: Avenir;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 25px;
-		color: rgba(255,255,255,1);
-	}
-	#Sacrifice {
-		left: 188px;
-		top: 0px;
-		position: absolute;
-		overflow: visible;
-		width: 94px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: Avenir;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 25px;
-		color: rgba(255,255,255,1);
-	}
-	#Subscription {
-		left: 499px;
-		top: 0px;
-		position: absolute;
-		overflow: visible;
-		width: 139px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: Avenir;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 25px;
-		color: rgba(255,255,255,1);
-	}
-	#Github {
-		left: 821px;
-		top: 0px;
-		position: absolute;
-		overflow: visible;
-		width: 78px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: Avenir;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 25px;
-		color: rgba(255,255,255,1);
-	}
-	#Contract {
-		left: 680px;
-		top: 0px;
-		position: absolute;
-		overflow: visible;
-		width: 101px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: Avenir;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 26px;
-		color: rgba(255,255,255,1);
-	}
-	#Disclaimer {
-		left: 941px;
-		top: 0px;
-		position: absolute;
-		overflow: visible;
-		width: 117px;
-		white-space: nowrap;
+@import url('https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:wght@300;600;700&display=swap');
+@import url("https://use.typekit.net/okr1cny.css");
+body{
+	background:#090B3C;
+}
+.custom-toggler .navbar-toggler-icon {
+  background: url("../img/menu.png");
+}
+
+.custom-toggler.navbar-toggler {
+  border: 1px solid white;
+} 
+.main-menu li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.main-menu li a{
+	display:inline-block;
+	padding:5px 5px;
+	margin-right: 5px;
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	font-size: 1rem;
+	color:white;
+}
+
+.disclaimer .main-menu li a{
+	color:#353152;
+}
+.nav-link:focus, .nav-link:hover {
+	border-radius: 10px;
+	color:#353152;
+}
+
+.nav-link.ico,.nav-link.ico:hover{
+	margin-right: 0;
+}
+.bg-graph{
 	
+	background-position: bottom right;
+	background-repeat: no-repeat;
+	background-size: cover;
+	z-index:0;
+	
+}
+.stat{
+	background: url("../img/head-bg.png");
+	width: 100%;
+	height: 100vh;
+	position: absolute;
+	z-index: -1;
+	top: 0;
+	
+}
+.bg-banner{
+	height: 100vh;
+	display: flex;
+	padding-top: 100px;
+	background: transparent;
+	z-index: 5;
+}
+
+.stat img{
+	height: 145%;
+	float: right;
+}
+.block-down{
+	/*background: #1C2D52;*/
+	color: white;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding: 15px 0px;
+}
+.banner-title{
+	color: White;
+	font-family: 'Aleo', serif;
+}
+.banner-cnt-text{
+	color: White;
+	font-family: 'Aleo', serif;
+	font-size:1.4rem;
+	margin-bottom: 20px;
+}
+.btn-banner, .btn-banner:hover{
+	text-decoration: none;
+	border: 1px solid white;
+	color: white;
+	border-radius: 25px;
+	padding: 15px 10px 15px 40px; 
+	text-align: center;
+	font-family: 'Aleo', serif;
+	font-size:1.4rem;
+}.btn-banner img{
+	margin-left: 10px;
+}
+.list-genius{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	color: white;
+}
+.list-genius li{
+	display: flex;
+	padding-bottom: 10px;
+}
+.list-genius li .list-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding-left: 10px;
+    font-family: 'Aleo', serif;
+    font-size: 1.2rem;
+}
+.block2{
+	background: url('../img/bg-blk.png');
+	font-family: 'Aleo', serif;
+	padding: 25px 0px;
+}
+.blk-title{
+	color: white;
+	font-size: 2.5rem;
+	font-weight: bold;
+}
+.blk-title + p{
+	color: white;
+	font-size: 1.5rem;
+	
+}
+.btn-blk, .btn-blk:hover{
+	padding: 10px 40px;
+	border-radius: 25px;
+	text-decoration: none;
+	background: white;
+	color: #F46F4C;
+	font-size: 1.2rem;
+}
+.block3{
+	background: url('../img/bg-foto.png');
+	background-size: cover;
+	font-family: 'Aleo', serif;
+	padding: 25px 0px;
+	height: 100vh;
+}
+.list-section{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	color: white;
+}
+
+.list-section li{
+	padding-bottom: 10px;
+	display: flex;
+	align-items: center;
+	widows: 100%;
+}
+.list-section li span{
+	margin-right: 15px;
+}
+.full-height{
+	height: 100vh;
+}
+.section-title{
+	color: white;
+	font-size: 4rem;
+	font-weight: bold;
+}
+.btn-section, .btn-section:hover{
+	padding: 10px 40px;
+	border-radius: 50px;
+	text-decoration: none;
+	background: #F36C4D;
+	color: #0B0B46;
+	font-size: 3.5rem;
+	font-weight: bold;
+}
+.footer{
+	background-color: #061121;
+	width: 100%;
+	padding: 50px 0;
+  
+}
+ .footer-block{
+ 	display: flex;
+ 	justify-content: space-between;
+ 	align-items: center;
+ }
+.social-icos{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: inline-flex;
+}
+.social-icos li{
+	padding: 5px;
+}
+.social-icos li .net{
+	color: #faa840;
+	font-size: 1.3rem;
+	text-decoration: none;
+}
+.f-menu{
+	list-style: none;
+	display: inline-block;
+}
+.f-menu li{
+	padding: 5px 20px;
+	text-align: end;
+}
+.f-menu li a{
+	color: #fff;
+	font-size: 1.2rem;
+	text-align: right;
+}
+.footer .copy p{
+	color: #ffffff;
+	font-size: 0.8rem;
+}
+/* X-Small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	.stat{
+		height: 45vh;
+		opacity: 0.8;
+	}
+	.bg-banner{
+		padding-top: 50px;
+		height: 50vh;
+	}
+	.blk-title + p {
+    font-size: 1rem;
+	}
+	.section-title {
+    font-size: 3rem;
+	}
+	.btn-section, .btn-section:hover{
+		padding: 10px 30px;
+		font-size: 3rem !important;
+	}
+}
+/*Medium devices (tablets, less than 992px)*/
+@media (max-width: 991.98px) { 
+	.stat{
+		height: 50vh;
+		opacity: 0.8;
+	}
+	.bg-banner{
+		padding-top: 50px;
+		height: 50vh;
+	}
+	.btn-section, .btn-section:hover{
+		padding: 10px 30px;
+		font-size: 2rem !important;
+	}
+}
