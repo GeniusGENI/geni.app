@@ -1,5 +1,5 @@
 {
-  "name": " ",
+  "name": "Genius App",
   "version": "0.0.1",
   "description": "",
   "keywords": "",
@@ -12,6 +12,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.4",
+    "@popperjs/core": "^2.11.5",
+    "bootstrap": "^5.1.3"
   }
 }
