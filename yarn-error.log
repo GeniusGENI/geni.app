@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add bootstrao
+
+PATH: 
+  C:\Program Files\nodejs;C:\Program Files (x86)\GnuWin32\bin;C:\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin\;C:\Users\majordev\AppData\Local\Microsoft\WindowsApps;;C:\Users\majordev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\majordev\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  16.13.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/bootstrao: Not found
+      at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:66140:18)
+      at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:140885:22)
+      at Request.emit (node:events:390:28)
+      at Request.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141857:10)
+      at Request.emit (node:events:390:28)
+      at IncomingMessage.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141779:12)
+      at Object.onceWrapper (node:events:509:28)
+      at IncomingMessage.emit (node:events:402:35)
+      at endReadableNT (node:internal/streams/readable:1343:12)
+      at processTicksAndRejections (node:internal/process/task_queues:83:21)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
