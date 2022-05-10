@@ -7,6 +7,19 @@
     color: #f0b90b;
 }
 
+.gradient-btn {
+    background-image: linear-gradient(to bottom right, #fdc839, #f3694e);
+}
+
+.address-container {
+    padding: 20px;
+    border: solid white;
+    color: black;
+    background-image: linear-gradient(to bottom right, #fdc839, #f3694e);
+    font-size: 110%;
+    overflow: hidden;
+}
+
 @media (max-width: 991.98px) {
     .offcanvas-collapse {
         position: fixed;
