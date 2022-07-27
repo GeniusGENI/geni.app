@@ -43,4 +43,4 @@ const countDown = () => {
   }
 };
 
-countDown();
+window.onload = countDown;
